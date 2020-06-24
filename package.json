@@ -1,6 +1,6 @@
 {
   "name": "ezbusinessmanagerrestapi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JS Rest API helper files to help with any call to the EZ-BusinessManager Rest API",
   "main": "Api.js",
   "directories": {
