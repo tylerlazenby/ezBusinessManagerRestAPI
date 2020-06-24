@@ -6,9 +6,10 @@ This is able to be added by downloading as a release (see right on git repo) or 
   
 # Usage Instructions  
   
-1. Always include the Api.js file  
+1. Always include the Api.js file
+2. Make sure to place the token in the Api.js file before doing anything else  
 3. The example files show pure JS examples on how to work with the most common API functions, and the data passed is always an object.  
-2. Include any other root level files before calling that class's functions These include:  
+4. Include any other root level files before calling that class's functions These include:  
   
 - Company.js  
 - Contact.js  
