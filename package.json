@@ -1,5 +1,5 @@
 {
-  "name": "@byuilazenbyt/ezbusinessmanagerrestapi",
+  "name": "ezbusinessmanagerrestapi",
   "version": "1.0.2",
   "description": "JS Rest API helper files to help with any call to the EZ-BusinessManager Rest API",
   "main": "Api.js",
@@ -29,8 +29,5 @@
   "bugs": {
     "url": "https://github.com/byuilazenbyt/ezBusinessManagerRestAPI/issues"
   },
-  "homepage": "https://github.com/byuilazenbyt/ezBusinessManagerRestAPI#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+  "homepage": "https://github.com/byuilazenbyt/ezBusinessManagerRestAPI#readme"
 }
